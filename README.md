@@ -1,23 +1,11 @@
-This folder contains files for P0: Analyze Bay Area Bike Share Data.
+<h1>Bay Area Bike Share</h1>
+<hr />
+<p>
+Projeto Final do Nanodegree Fundamentos de Data Science I: Análise dos dados da Bay Area Bike Share.
 
-Bay\_Area\_Bike\_Share\_Analysis.ipynb - Main project file.
+Bay Area Bike Share é uma empresa que oferece um serviço de aluguel de bicicletas sob demanda.<br />
+A empresa possui varias estações que se encontram espalhadas nas cidades de San Francisco, Redwood City, Palo Alto, Mountain View, e San Jose, onde os clientes podem desbloquear a bicicleta em qualquer estação e devolver em outra.<br /><br />
 
-babs\_datacheck.py; babs\_visualizations.py - Supplemental scripts for checking
-data wrangling, reporting of basic statistics, and creation of exploratory bar
-charts and histograms.
+O projeto possui arquivos em csv que constam informações como localização das estações, informações das viagens e o tempo naquela região.
 
-Data is split among twelve other files, organized into three sets of four files
-each. Prefixing each set is one of three datestamps, showing the end month for
-each data collection period (201402, 201408, 201508). Suffixes for each file
-indicate contents:
-
-\*\_README.txt - Information about contents of data files.
-
-\*\_station\_data.csv - Basic information about station locations and
-capacities.
-
-\*\_trip\_data.csv - Information about each trip taken using the bike share
-system.
-
-\*\_weather\_data.csv - Weather information by day for one station in each
-city in the bike share program.
+</p>
